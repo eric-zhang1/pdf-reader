@@ -75,8 +75,6 @@ def main():
                     file_name=f"{uploaded_file.name}.pdf",
                     mime="application/pdf"
                 )
-        
-    
 
 
 if __name__ == "__main__":
