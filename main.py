@@ -4,6 +4,7 @@ import platform
 from tempfile import TemporaryDirectory
 from pathlib import Path
 import os
+import fitz
 
 import pytesseract
 from pdf2image import convert_from_path
